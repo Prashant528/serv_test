@@ -6,7 +6,7 @@ Install flask:
 pip3 install flask
 
 Run:
-1. Go to the folder and open terminal.
+1. Go to the project folder and open terminal.
 2. Type "python3 server.py"  (might have to use "py" or "python" for proper python)
 3. Open browser 
 4. Go to address : localhost:5000
